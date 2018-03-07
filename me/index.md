@@ -1,6 +1,6 @@
 ---
 layout: me
-title: me
+title: Carlos Diego
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla lobortis placerat enim nec cursus. Ut et elit congue, facilisis dui id, efficitur velit. Integer faucibus velit varius arcu consectetur aliquam. Sed dui ante, euismod non malesuada vel, suscipit vel elit. Nullam tempor vehicula urna, sed dignissim ligula hendrerit in. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Proin et nisi eget nunc vehicula posuere. Nam elementum finibus auctor. Suspendisse a mauris et arcu molestie egestas sed et dolor. Nullam ut est tristique, iaculis tortor non, viverra felis. Praesent a tincidunt tellus, eget congue eros. Mauris non libero nec ipsum ultricies tincidunt sit amet nec ante. Duis molestie sem at ligula rhoncus viverra. Pellentesque sit amet tortor euismod, rhoncus lacus a, sodales odio. Proin ac convallis ipsum. Cras tincidunt mollis consequat.
+Possui graduação em Ciências Sociais e MBA em Governança em TI e Sustentabilidade pela Universidade de São Paulo. Atualmente cursa o Mestrado Profissional da Rede Nacional em Gestão e Regulação de Recursos Hídricos (PROFÁGUA/UNESP/ANA) e é Secretário Executivo do Movimento Socio-Ambiental Caminho das Aguas, curador da Baia Hacker Space e Diretor da Cria Corpo. Tem experiência na área de Ciências Sociais e da Informação, com ênfase em Netweaving, atuando principalmente nos seguintes temas: ciberativismo, educação ambiental, redes sociais, democracia, sustentabilidade, juventude e meio ambiente.
