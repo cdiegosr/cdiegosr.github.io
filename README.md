@@ -1,6 +1,6 @@
 # Windows little joke
 
-![ss](https://github.com/h01000110/windows-95/raw/gh-pages/screenshot_2.png)
+![ss](https://cdiegosr.github.io/images/users/cdiego-baiahacker_120.jpg)
 
 My WP blog: [Infos CDiegoSR](https://cdiegosr.info)
 
