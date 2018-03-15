@@ -1,25 +1,15 @@
-permalink: /:year:month:day/:title
-url: #Your url here
-baseurl: /project
-
-# variables
-name: Carlos Diego
-description: Coisas do caipira ativista
-google_verification: null
-
-
-# File management
-include: [".htaccess"]
-exclude: ["README.md", "LICENSE"]
-
-# Sass
-sass:
-  style: :compressed
-  sass_dir: _sass
-
-# Markdown
-markdown: kramdown
-kramdown:
-  input: GFM
-  syntax_highlighter_opts:
-    disable : true
+permalink: /:categories/:title.html
+url: "http://pasindud.github.io/jekyll-masonry/"
+full_name: "Your Full Name"
+first_name: "First Name"
+last_name: "Last Name"
+blog_title: "Blog title "
+author_img_name_path: "/images/users/user.jpg"
+disqus_shortname: "pasinduland"
+copyright_year: "2014"
+google_analytics_code: ""
+aboutme: "Something about the author here"
+twitter: "Ghosteyes1"
+github: "pasindud"
+facebook: "mepasindu"
+linkined_url: ""
