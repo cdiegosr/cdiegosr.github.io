@@ -1,21 +1,18 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Sobre
+permalink: /eu-mesmo/
 ---
 
-Swiss is a bold Jekyll theme inspired by Swiss design and the works of Massimo Vignelli. This theme lends itself well to sites heavy on written content.
+Nas empresas e organizações em que atuo as pessoas que muito me agradam e me fazem querer ser parte delas criam e desenvolvem produtos e serviços com foco em alternativas do design permacultural, sistemas de comunicação com hardware e software livre, adoram a Educação (formal ou não-formal) para a sustentabilidade e gerenciamento de recursos naturais. Não somente nestes temas estamos capacitados para interagir, mas são os prioritários.
 
-### Features:
-* Mobile-first design ensures this theme performs fastest on mobile while scaling elegantly to desktop-size screens.
-* Designed for blogs and sites heavy on written content, with bold typography styles, homepage summaries, and previous/next snippets.
-* Supports a wide range of HTML elements and markdown.
-* Flexible styles that can be reused for customization without adding additional CSS.
-* Simple styling for code snippets (if you want something with syntax highlighting, checkout ....)
-* Dynamically generated navigation links. See docs below for adding pages with specific post category for-loops.
+Então fique a vontade para comentar ou me mandar email concordando ou não com minhas publicações, querendo me contratar, fazendo perguntas, escolha o seu caminho se assim desejar. O importante é que possamos coexistir e tornar viva a rede que nos conecta.
 
-## Themes
+Se você veio aqui em busca de um currículo, que tal acessar o meu [Curriculo Lattes]?
 
-## Browser Support
+Perceba que a frequência de postagem é baixa mesmo a produção sendo diária. São tantos os sites do ecossistema que ainda não consegui agregar tudo de maneira a ser mais simples o processo de comunicação com o mundo.
 
-## Installation
+Enquanto não aprendo com a simplicidade simbora por diferentes formas de fazer a mesma coisa!
+
+
+[Curriculo Lattes]: http://lattes.cnpq.br/8821541530718764
