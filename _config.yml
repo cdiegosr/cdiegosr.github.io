@@ -16,8 +16,8 @@
 title: Carlos Diego
 description: Um netweaver caipira
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://cdiegosr.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-github_repo: cdiegosr # the GitHub repo name for your project
+url: "https://cdiegosr.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+github_repo: cdiegosr.github.io # the GitHub repo name for your project
 github_username: cdiegosr
 
 # Optional social link, you can choose from the following options:
@@ -31,3 +31,4 @@ theme_color: black
 
 # Build settings
 markdown: kramdown
+theme: jekyll-swiss
