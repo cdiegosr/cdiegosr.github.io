@@ -13,13 +13,10 @@ O **código aberto** construindo _tecnologia_ para indivíduos e serviços quem 
 > [Link do site](https://brasil.aguas.ml)
 
 
-## Ponto Solidário
-
 > Ponto Solidário
 >
 > [Link do site](https://pontosolidario.org.br)
 
-## Curamor
 
 > Missões Curamor
 >
