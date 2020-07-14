@@ -11,19 +11,19 @@ O **código aberto** construindo _tecnologia_ para indivíduos e serviços quem 
 
 > Águas Mídia Livre
 >
-> [LInk do site](https://brasil.aguas.ml)
+> [Link do site](https://brasil.aguas.ml)
 
 
 ## Ponto Solidário
 
 > Ponto Solidário
 >
-> [LInk do site](https://pontosolidario.org.br)
+> [Link do site](https://pontosolidario.org.br)
 
 ## Curamor
 
 > Missões Curamor
 >
-> [LInk do site](https://curamor.com.br)
+> [Link do site](https://curamor.com.br)
 
 
